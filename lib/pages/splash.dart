@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:udh_mobile/pages/welcome.dart';
+import 'package:udh_mobile/pages/welcome/welcome.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
